@@ -1,0 +1,14 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">LAB_WEEK_06</string>
+
+    <!-- Content Descriptions -->
+    <string name="cat_photo_desc">Cat photo</string>
+
+    <!-- Sample Cat Data -->
+    <string name="sample_cat_name">Cat Name</string>
+    <string name="sample_cat_breed">Cat Breed</string>
+    <string name="sample_cat_biography">Cat Biography</string>
+    <string name="sample_cat_gender_male">♂</string>
+    <string name="sample_cat_gender_female">♀</string>
+</resources>
